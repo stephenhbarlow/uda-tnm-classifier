@@ -3,6 +3,7 @@ import torch.nn.functional as F
 import numpy as np
 
 
+# Below functions adapted from: https://github.com/ieshanvaidya/UDA
 def get_tsa_threshold(schedule, t, T, K):
     """
     schedule: log, linear, exp
