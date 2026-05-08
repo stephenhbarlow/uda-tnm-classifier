@@ -1,5 +1,5 @@
-# uda-tnm-classifier
-Unsupervised Data Augmentation for TNM Classification
+# uda-m1-classifier
+Unsupervised Data Augmentation for M1/0 Classification
 
 This code was used to generate the results in Chapter 4 "Exploration of Semi-supervised Methods" of the PhD thesis: 
 
